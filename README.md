@@ -1,5 +1,4 @@
 # Netlogo
-model
 
 This model attempts to replicate a spatial interaction model of store choice behaviour in Netlogo
 
